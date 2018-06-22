@@ -1,7 +1,7 @@
 #
 # Dockerfile for WordPress
 #
-FROM appsvcorg/alpine-php-mysql:0.1 
+FROM lacoudhir/alpine-php-mysql 
 MAINTAINER Azure App Service Container Images <appsvc-images@microsoft.com>
 
 # ========
